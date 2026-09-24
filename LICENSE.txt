@@ -10,7 +10,7 @@ Subject to the terms of this Agreement, the Author grants you a perpetual,
 worldwide, non-exclusive, royalty-free license to:
   a) Use "awss1.exe" to execute Awake Simple S1 (.awss1) scripts.
   b) Package and distribute "awss1.exe" alongside your own original software, 
-     scripts, or games for both non-commercial aand commercial purposes.
+     scripts, or games for both non-commercial and commercial purposes.
 
 2. CONDITIONS & MANDATORY NAMING REQUIREMENT
   a) File Name Integrity: The runtime executable MUST remain strictly named 
