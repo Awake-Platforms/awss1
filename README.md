@@ -3,7 +3,7 @@ Awake Simple Series 1 is a programming language and runtime engine that makes sc
 
 # How to Install
 > [!IMPORTANT]
-> We are still currently working on making AWSS1 more accessible. Therefore, the only available methods will have a checkmark on them, while the currently unavailable ones will not.
+> We are still currently working on making AWSS1 more accessible. Therefore, only the available methods will have a checkmark on them, while the currently unavailable ones will not.
 
 You can successfully download and install *Awake Simple Series 1* using one of the methods below:
 - [X] You can download the latest installer directly from [here](https://github.com/Awake-Platforms/awss1/releases/latest/download/AwakeSimpleS1_Setup.exe).
