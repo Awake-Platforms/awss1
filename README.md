@@ -14,4 +14,4 @@ You can successfully download and install *Awake Simple Series 1* using one of t
 > [!CAUTION]
 > Awake Simple Series 1 is ***NOT*** open-source. You are strictly forbidden from tampering with, reverse-engineering, and re-releasing Awake Simple Series 1.
 
-You can read the **Awake AWSS1 License 1.0** [here](https://github.com/Awake-Platforms/awss1/blob/main/LICENSE.txt).
+You can read the **Awake AWSS1 License 1.0** [here](https://github.com/Awake-Platforms/awss1/blob/main/LICENSE.md).
